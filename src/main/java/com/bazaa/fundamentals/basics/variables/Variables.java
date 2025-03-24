@@ -1,4 +1,4 @@
-package main.java.com.bazaa.fundamentals.basics.variables;
+package com.bazaa.fundamentals.basics.variables;
 
 public class Variables {
     // Collection of examples and usages
@@ -100,7 +100,7 @@ public class Variables {
             int x = 10;
             System.out.println(x);
         }
-         System.out.println(x);
+//         System.out.println(x);
 
 
     // What is the difference between int and Integer in Java?
@@ -119,7 +119,7 @@ public class Variables {
     // What is the output of this code?
         char c1 = 'A';
         char c2 = 65;
-        System.out.println(c1 == c2);
+//        System.out.println(c1 == c2);
 
 
         /** the output would be "true" this is because characters are defined as Unicode and "65" represents "A" so java sees it as the same value **/
@@ -132,7 +132,4 @@ public class Variables {
 
 
     }
-
-
-
 }
