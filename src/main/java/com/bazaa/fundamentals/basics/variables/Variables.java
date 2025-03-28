@@ -119,7 +119,7 @@ public class Variables {
     // What is the output of this code?
         char c1 = 'A';
         char c2 = 65;
-//        System.out.println(c1 == c2);
+    //  System.out.println(c1 == c2);
 
 
         /** the output would be "true" this is because characters are defined as Unicode and "65" represents "A" so java sees it as the same value **/
